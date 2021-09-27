@@ -29,7 +29,7 @@ gem 'devise', '~> 4.4', '>= 4.4.3'
 gem 'paperclip', '~> 6.1'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 gem 'searchkick', '~> 3.1'
-gem 'nokogiri', '~> 1.8', '>= 1.8.4'
+gem 'nokogiri', '~> 1.12'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 # Use ActiveModel has_secure_password
